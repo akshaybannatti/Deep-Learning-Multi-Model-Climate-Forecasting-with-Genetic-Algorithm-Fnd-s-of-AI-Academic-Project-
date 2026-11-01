@@ -1,7 +1,7 @@
 # Multi-Model Climate Forecasting with Genetic Algorithm-Based Model Selection and Hyperparameter Optimization
 
 **CS5100 - Foundations of Artificial Intelligence**
-Aniket Nandi, Akshay Ashok Bannatti
+Akshay Ashok Bannatti
 ---
 ## Overview
 This project applies a Genetic Algorithm (GA) to jointly select and tune forecasting models for three climate indicators:
